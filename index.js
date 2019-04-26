@@ -9,5 +9,5 @@ function happyHolidaysTo() {
 }
 
 function happyHolidayTo() {
-  var name = ""
+  var holiday = "Independence day";
 }
