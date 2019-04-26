@@ -14,3 +14,6 @@ function happyHolidayTo() {
   return `Happy ${holiday}, ${name}!`
 }
 
+function holidayCountdown() {
+  var days 
+}
